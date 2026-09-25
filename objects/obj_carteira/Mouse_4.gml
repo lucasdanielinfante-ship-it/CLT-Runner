@@ -1,0 +1,1 @@
+audio_play_sound(snd_chicote, 4, false)
