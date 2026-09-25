@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_clt",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_clt",
   "overriddenProperties":[],
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_clt_strip8",
-    "path":"sprites/spr_clt_strip8/spr_clt_strip8.yy",
+    "name":"spr_clt",
+    "path":"sprites/spr_clt/spr_clt.yy",
   },
   "spriteMaskId":null,
   "visible":true,

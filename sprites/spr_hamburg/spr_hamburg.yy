@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"spr_hamburg_strip21",
+  "%Name":"spr_hamburg",
   "bboxMode":0,
   "bbox_bottom":20,
   "bbox_left":5,
@@ -41,7 +41,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"954f095a-d514-4d7c-9390-ded97958ca86","blendMode":0,"displayName":"default","isLocked":false,"name":"954f095a-d514-4d7c-9390-ded97958ca86","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_hamburg_strip21",
+  "name":"spr_hamburg",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -53,7 +53,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"spr_hamburg_strip21",
+    "%Name":"spr_hamburg",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -77,7 +77,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_hamburg_strip21",
+    "name":"spr_hamburg",
     "playback":1,
     "playbackSpeed":4.0,
     "playbackSpeedType":0,
@@ -89,67 +89,67 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f7514ddd-20a7-4095-963c-6b91d452d11d","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f7514ddd-20a7-4095-963c-6b91d452d11d","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"91646b95-d807-44ff-9b9a-b64ca3e21d5b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9964e217-1c1b-4429-ae8e-ff103b9772eb","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9964e217-1c1b-4429-ae8e-ff103b9772eb","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b7da91ee-0e59-4f27-a038-c32fca5711f4","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e5fede92-c309-4ff0-b0fd-1c6328c80994","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e5fede92-c309-4ff0-b0fd-1c6328c80994","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"8fdcc5c2-2fc5-4701-b54a-8b75c88c8156","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b62b8fc8-de6a-4835-9f2d-9ef108a9993a","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b62b8fc8-de6a-4835-9f2d-9ef108a9993a","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"001565a0-69ab-4af6-82c4-07774ea625e3","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5b122970-45eb-4d59-9717-3d70e63fda70","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5b122970-45eb-4d59-9717-3d70e63fda70","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1c9e07c2-c3ea-493b-8d74-ca935aef0b98","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bb076699-57aa-40df-8542-2188e188b6cb","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bb076699-57aa-40df-8542-2188e188b6cb","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"696889ea-b39c-43ad-a98d-fb9c4a5adaeb","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2d28d658-67d7-476d-8c4d-92ed975681f3","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2d28d658-67d7-476d-8c4d-92ed975681f3","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"c9286854-3d2a-49ac-aed0-27fb8c63a4f4","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e4d4a40f-5e55-4484-8c2e-1efad8306a9f","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e4d4a40f-5e55-4484-8c2e-1efad8306a9f","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"f770dae0-e417-47d3-ae44-0adba8443677","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"64bce8a5-7716-451a-9a00-a8b257a60eb2","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"64bce8a5-7716-451a-9a00-a8b257a60eb2","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"9f9fce56-0e46-4470-bc54-aa43b7b4ca45","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"98dcab03-52fc-4e6f-ab87-42566277a51c","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"98dcab03-52fc-4e6f-ab87-42566277a51c","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"615f3d24-fdbb-4ad5-8616-1a2b7a358ed6","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8ab89293-f82b-4f36-be38-e55c6b978ec0","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8ab89293-f82b-4f36-be38-e55c6b978ec0","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"51b2ecb3-cb50-459c-80f8-efc2a0fc28cd","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"abc387d3-b694-4746-975b-bebc320ec1d6","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"abc387d3-b694-4746-975b-bebc320ec1d6","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"e7c11176-4989-4dc8-a1e6-c8e0e12a0328","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fe6b467e-9358-4ee5-b479-5ff80d186fb4","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fe6b467e-9358-4ee5-b479-5ff80d186fb4","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"ce1bf90d-4828-40e1-aa61-11d43a4c9968","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"817e566d-75a4-4664-a6a6-5c267473aa69","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"817e566d-75a4-4664-a6a6-5c267473aa69","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"563cb3b6-9c24-47e5-bd92-0f65e3605844","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cdd53254-df44-46c0-810d-b031a9a58c7c","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cdd53254-df44-46c0-810d-b031a9a58c7c","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1acab218-6adb-43da-beb9-aa6ece2606a0","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fbd3b0f8-9e91-4d2c-a3c2-f5c352b29612","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fbd3b0f8-9e91-4d2c-a3c2-f5c352b29612","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"73b4f8c8-4439-4272-b64c-b8db1a8aea6f","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"99edaba7-2ed7-4236-a0d8-6c48122c2b69","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"99edaba7-2ed7-4236-a0d8-6c48122c2b69","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b04abe32-1bf0-4322-9e84-4046c93e21da","IsCreationKey":false,"Key":16.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4482f918-a594-4812-b8fe-416128d0817f","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4482f918-a594-4812-b8fe-416128d0817f","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"85791810-5467-48b9-9cb0-0460bbdf4796","IsCreationKey":false,"Key":17.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"aa9c87bf-cef3-45c0-8f17-6e542ea18434","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"aa9c87bf-cef3-45c0-8f17-6e542ea18434","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"f5915aef-3825-4abe-a809-c281241d6729","IsCreationKey":false,"Key":18.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7c1a5303-16a5-4791-a5b0-5a74edf0468c","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7c1a5303-16a5-4791-a5b0-5a74edf0468c","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b4b4d1e8-e7a9-4457-89ab-5ee52f55034b","IsCreationKey":false,"Key":19.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"824a2d2f-ef8b-4edc-815c-9039ec0d9352","path":"sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"824a2d2f-ef8b-4edc-815c-9039ec0d9352","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"2c9715dd-50ae-4133-a4cc-2369b81f9457","IsCreationKey":false,"Key":20.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
